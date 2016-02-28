@@ -1,0 +1,29 @@
+{
+  "name": "cnpl",
+  "version": "0.1.0",
+  "description": "Chuck Norris Programming Language, program only with 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demiurgosoft/cnpl.git"
+  },
+  "keywords": [
+    "cnpl",
+    "language",
+    "esoteric",
+    "chuck",
+    "norris"
+  ],
+  "author": "@demiurgosoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demiurgosoft/cnpl/issues"
+  },
+  "homepage": "https://github.com/demiurgosoft/cnpl#readme",
+  "dependencies": {
+    "big-integer": "^1.6.12"
+  }
+}
