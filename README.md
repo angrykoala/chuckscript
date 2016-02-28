@@ -42,4 +42,4 @@ node cngen.js myoldjs.js newsupercode.cnpl
 In the folder `/example_code` you'll find some ready-to-use examples of cnpl code
 
 
-
+> CNPL is a improved version of [Unary esoteric language](https://esolangs.org/wiki/Unary)
