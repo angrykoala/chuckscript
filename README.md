@@ -6,17 +6,18 @@ Chuck Norris can code using binary without 1, with Chuck Norris Programming Lang
 ## Syntax
 The syntax is probably the easiest to learn: `0` is the only command you'll need. What does `0` do? Everything.
 
-## High Level CNPL
-Chuck Norris code is so powerful that no current machine can process it (true story), so a higher abstraction was made to make the code comprehensible for humans (and machines):    
-`[0]{12}` means _"twelve zeroes"_ and it is translated `000000000000` in pure Chuck Norris Code
+## ChuckScript
+Chuck Norris code is so powerful that no current machine can process it, so a higher abstraction was made to make the code comprehensible for humans (and machines):    
+`[0]{12}` means _"twelve zeroes"_ and it is translated `000000000000` in pure Chuck Norris Code.
+
+All ChuckScripts allow comments, and only tirst command with the syntax `[0]{...}` will be executed. The extension is `.cnpl`
 
 ## Hello World!
 CNPL is fully functional, based on JavaScript. To start coding, just tweak this simple hello world:
 ```
 [0]{9582516168086304533950061199088375933762201813077804024987245718616842}
 ```
-_CNPL for hello world!_
-
+_hellow_world.cnpl_
 
 ## CNI
 CNI (_Chuck Norris Interpreter_) is the official CNPL interpreter and allows you to execute CNPL (extension .cnpl) in your machine.
@@ -32,14 +33,13 @@ node cni.js myprogram.cnpl
 ```
 
 ## CNGEN
-Of course, CNPL is the only language you'll ever need again, however, to start learning it cni also brings a cnpl code generator, which will convert your old, inefficient and un-epic JavaScript code into a bright new CNPL code, to use it:
+Of course, CNPL is the only language you'll ever need again, however, to start learning it cni also brings a cnpl code generator, which will convert your old, un-epic JavaScript code into a bright new CNPL code, to use it:
 ```
 node cngen.js myoldjs.js newsupercode.cnpl
 ```
 
-
 ## CNPL Code
-In the folder `/example_code` you'll find some ready-to-use examples of cnpl code
+In the folder `/examples` you'll find some ready-to-use examples of cnpl code
 
 
 > CNPL is a improved version of [Unary esoteric language](https://esolangs.org/wiki/Unary)
