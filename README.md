@@ -43,7 +43,7 @@ In the folder `/examples` you'll find some ready-to-use examples of cnpl code:
 
 * **hello_world.cnpl:** The proper way to start learning a new language, with a easy-to-learn hello world
 * **loop.cnpl:** Learn the easy loop syntax of ChuckScript with this example
-* **sever.cnpl:** ChuckScript is web-development ready, in this example yo'll learn how to make your own server
+* **sever.cnpl:** ChuckScript is web-development ready, in this example you will learn how to make your own server
 
 
 > CNPL is a improved version of [Unary esoteric language](https://esolangs.org/wiki/Unary)
