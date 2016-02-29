@@ -1,6 +1,6 @@
 {
   "name": "cnpl",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Chuck Norris Programming Language, program only with 0",
   "main": "index.js",
   "scripts": {
