@@ -10,7 +10,7 @@ The syntax is probably the easiest to learn: `0` is the only command you'll need
 Chuck Norris code is so powerful that no current machine can process it, so a higher abstraction was made to make the code comprehensible for humans (and machines):    
 `[0]{12}` means _"twelve zeroes"_ and it is translated `000000000000` in pure Chuck Norris Code.
 
-All ChuckScripts allow comments, and only tirst command with the syntax `[0]{...}` will be executed. The extension is `.cnpl`
+All ChuckScripts allow comments, and only the first command with the syntax `[0]{...}` will be executed. The extension is `.cnpl`
 
 ## Hello World!
 CNPL is fully functional, based on JavaScript. To start coding, just tweak this simple hello world:
