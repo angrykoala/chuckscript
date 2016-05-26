@@ -1,8 +1,12 @@
 {
   "name": "chuckscript",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "description": "Chuck Norris programing language, code only with zeroes",
-  "main": "cni.js",
+  "main": "index.js",
+  "bin":{
+      "cni": "./cni.js",
+      "cngen": "./cngen.js"
+  },
   "directories": {
     "example": "examples"
   },

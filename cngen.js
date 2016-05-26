@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /*
 Chuck Norris Code Generator
 by @ demiurgosoft
