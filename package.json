@@ -1,22 +1,22 @@
 {
   "name": "chuckscript",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "Chuck Norris programing language, code only with zeroes",
   "main": "index.js",
   "bin":{
-      "cni": "./cni.js",
-      "cngen": "./cngen.js"
+      "cni": "./bin/cni.js",
+      "cngen": "./bin/cngen.js"
   },
   "directories": {
     "example": "examples"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cni.js"
+    "start": "node bin/cni.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demiurgosoft/chuck-script.git"
+    "url": "git+https://github.com/demiurgosoft/chuckscript.git"
   },
   "keywords": [
     "chuck",
@@ -28,9 +28,9 @@
   "author": "demiurgosoft <demiurgosoft@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/demiurgosoft/chuck-script/issues"
+    "url": "https://github.com/demiurgosoft/chuckscript/issues"
   },
-  "homepage": "https://github.com/demiurgosoft/chuck-script#readme",
+  "homepage": "https://github.com/demiurgosoft/chuckscript#readme",
   "dependencies": {
     "big-integer": "^1.6.15"
   }

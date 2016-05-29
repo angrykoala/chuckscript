@@ -19,23 +19,28 @@ CNPL is fully functional, based on JavaScript. To start coding, just tweak this 
 ```
 _hellow_world.cnpl_
 
+## Installation
+You can install chuckScript from the official npm repository typing:    
+```
+npm install -g chuckscript
+```
+Or you can manually clone from [github](https://github.com/demiurgosoft/chuckscript) and install with `npm install`
+
+
+>You need node and npm installed on your system
+
+
 ## CNI
-CNI (_Chuck Norris Interpreter_) is the official CNPL interpreter and allows you to execute CNPL (extension .cnpl) in your machine.
+CNI (_Chuck Norris Interpreter_) is the official CNPL interpreter and allows you to execute CNPL (extension .cnpl) in your machine:
 
-To use it, just install dependencies with npm:    
 ```
-npm install
-```
-
-Then, execute with the file you want to execute:
-```
-node cni.js myprogram.cnpl
+cni myprogram.cnpl
 ```
 
 ## CNGEN
 Of course, CNPL is the only language you'll ever need again, however, to start learning it cni also brings a cnpl code generator, which will convert your old, un-epic JavaScript code into a bright new CNPL code, to use it:
 ```
-node cngen.js myoldjs.js newsupercode.cnpl
+cngen myoldjs.js newsupercode.cnpl
 ```
 
 ## Examples
@@ -48,4 +53,4 @@ In the folder `/examples` you'll find some ready-to-use examples of cnpl code:
 
 > CNPL is a improved version of [Unary esoteric language](https://esolangs.org/wiki/Unary)
 
-
+> ABC.js (c) 2013 Stephan Schmitz
