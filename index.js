@@ -13,7 +13,7 @@ var regex = /\[0\]{\d+}/;
 module.exports = {
     // Executes JavaScript cnpl code
     execute: function(code) {
-        var txt=this.cnpl2js(code);
+        var txt = this.cnpl2js(code);
         eval(txt);
     },
     // Translates from cnpl to js
@@ -30,7 +30,7 @@ module.exports = {
         return txt;
     },
     // Compiles to cnpl code
-    compile: function(jsCode){
+    compile: function(jsCode) {
         var cnc = 1 + ABC.toBinary(jsCode, "");
         var num = bigInt(cnc, 2);
         return "[0]{" + num.toString() + "}";

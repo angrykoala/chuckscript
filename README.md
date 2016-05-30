@@ -30,25 +30,32 @@ Or you can manually clone from [github](https://github.com/demiurgosoft/chuckscr
 >You need node and npm installed on your system
 
 
-## CNI
+### CNI
 CNI (_Chuck Norris Interpreter_) is the official CNPL interpreter and allows you to execute CNPL (extension .cnpl) in your machine:
 
 ```
 cni myprogram.cnpl
 ```
 
-## CNGEN
+### CNGEN
 Of course, CNPL is the only language you'll ever need again, however, to start learning it cni also brings a cnpl code generator, which will convert your old, un-epic JavaScript code into a bright new CNPL code, to use it:
 ```
 cngen myoldjs.js newsupercode.cnpl
 ```
 
-## Examples
+### Examples
 In the folder `/examples` you'll find some ready-to-use examples of cnpl code:
 
 * **hello_world.cnpl:** The proper way to start learning a new language, with a easy-to-learn hello world
 * **loop.cnpl:** Learn the easy loop syntax of ChuckScript with this example
 * **sever.cnpl:** ChuckScript is web-development ready, in this example you will learn how to make your own server
+
+## Module Usage
+To use _chuckscript_ in your node.js code, simply `require('chuckscript')`:
+
+* `execute(code)`: Executes given cnpl code (using javascript cni).
+* `cnpl2js(code)`: Translates cnpl code to javascript, returns string with js.
+* `compile(jsCode)`: Compiles javascript code into chuckscript.
 
 
 > CNPL is a improved version of [Unary esoteric language](https://esolangs.org/wiki/Unary)

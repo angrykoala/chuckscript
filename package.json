@@ -1,6 +1,6 @@
 {
   "name": "chuckscript",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Chuck Norris programing language, code only with zeroes",
   "main": "index.js",
   "bin":{
@@ -23,7 +23,9 @@
     "norris",
     "programming",
     "language",
-    "unary"
+    "unary",
+    "chuckscript",
+    "cnpl"
   ],
   "author": "demiurgosoft <demiurgosoft@hotmail.com>",
   "license": "MIT",
