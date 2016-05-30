@@ -1,6 +1,12 @@
 Chuck Norris Programming Language
 =================================
 _by @demiurgosoft_     
+
+[![npm version](https://badge.fury.io/js/chuckscript.svg)](https://badge.fury.io/js/chuckscript)
+[![bitHound Overall Score](https://www.bithound.io/github/demiurgosoft/chuckscript/badges/score.svg)](https://www.bithound.io/github/demiurgosoft/chuckscript)
+[![bitHound Dependencies](https://www.bithound.io/github/demiurgosoft/chuckscript/badges/dependencies.svg)](https://www.bithound.io/github/demiurgosoft/chuckscript/master/dependencies/npm)
+
+
 Chuck Norris can code using binary without 1, with Chuck Norris Programming Language (**CNPL**) you also can!. For those who think assembler is a high level language.
 
 ## Syntax
