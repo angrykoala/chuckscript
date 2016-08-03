@@ -1,6 +1,6 @@
 /*
 Chuck Norris Interpreter
-by @ demiurgosoft <demiurgosoft@hotmail.com>
+by @angrykoala <angrykoala@outlook.es>
 Allows you to execute CNPL code
 */
 

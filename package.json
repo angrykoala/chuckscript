@@ -1,6 +1,6 @@
 {
   "name": "chuckscript",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Chuck Norris programing language, code only with zeroes",
   "main": "index.js",
   "bin":{
@@ -27,7 +27,7 @@
     "chuckscript",
     "cnpl"
   ],
-  "author": "angrykoala <angrykoala@hotmail.com>",
+  "author": "angrykoala <angrykoala@outlook.es>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/angrykoala/chuckscript/issues"
