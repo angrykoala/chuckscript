@@ -23,7 +23,7 @@ CNPL is fully functional, based on JavaScript. To start coding, just tweak this 
 ```
 [0]{9582516168086304533950061199088375933762201813077804024987245718616842}
 ```
-_hellow_world.cnpl_
+_hello_world.cnpl_
 
 ## Installation
 You can install chuckScript from the official npm repository typing:    

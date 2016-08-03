@@ -1,6 +1,6 @@
 {
   "name": "chuckscript",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Chuck Norris programing language, code only with zeroes",
   "main": "index.js",
   "bin":{
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demiurgosoft/chuckscript.git"
+    "url": "git+https://github.com/angrykoala/chuckscript.git"
   },
   "keywords": [
     "chuck",
@@ -27,12 +27,12 @@
     "chuckscript",
     "cnpl"
   ],
-  "author": "demiurgosoft <demiurgosoft@hotmail.com>",
+  "author": "angrykoala <angrykoala@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/demiurgosoft/chuckscript/issues"
+    "url": "https://github.com/angrykoala/chuckscript/issues"
   },
-  "homepage": "https://github.com/demiurgosoft/chuckscript#readme",
+  "homepage": "https://github.com/angrykoala/chuckscript#readme",
   "dependencies": {
     "big-integer": "^1.6.15"
   }
